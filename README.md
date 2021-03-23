@@ -32,6 +32,7 @@ The sample version I have put here works in the below way:
 3. Say after beep <bot name> <play> <content in youtube>
    Ex1: Jarvis play faded song
    Ex2: Jarvis play Falcon heavy test flight
+4. There you go, you will see the youtube video getting played automatically on youtube in the browser
 PS:
 There would be debris file created by pywhatkit package when you run it for first time, dont mind just ignore.
 ```
