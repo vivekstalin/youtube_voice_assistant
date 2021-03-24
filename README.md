@@ -27,8 +27,8 @@ I have kept the code open and it is visible for you in .py format
  
 The sample version I have put here works in the below way:
 ```
-1. Run the main file voice.py
-2. It would start taking to you. My Bot name is jarvis
+1. Run the main file ~/src/voice.py
+2. It would start taking to you. My Bot name is Jarvis
 3. Say after beep <bot name> <play> <content in youtube>
    Ex1: Jarvis play faded song
    Ex2: Jarvis play Falcon heavy test flight
