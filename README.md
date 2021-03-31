@@ -13,7 +13,9 @@ Doesn't need much except Python and few Python Packages
   1. SpeechRecognition
   2. pyttsx3
   3. playsound
-  4. Basic packages like requests, webbrowser which should available by default
+  4. Basic packages like requests, webbrowser which should available by default (install only if shows any error)
+  
+  Use your python pip to install these packages - pip install <packagename>
   ```
 ### Installation
 1. Clone the repo
